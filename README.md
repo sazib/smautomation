@@ -1,0 +1,2 @@
+# smautomation
+Automation project
